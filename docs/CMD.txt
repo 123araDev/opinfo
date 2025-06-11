@@ -1,1 +1,1 @@
-ipconfig
+﻿NIL
